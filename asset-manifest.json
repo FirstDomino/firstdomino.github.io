@@ -1,21 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.eecdd43c.css",
-    "main.js": "/static/js/main.83662f9d.js",
+    "main.css": "/static/css/main.187c1016.css",
+    "main.js": "/static/js/main.69cae745.js",
+    "static/js/624.df82ba72.chunk.js": "/static/js/624.df82ba72.chunk.js",
     "static/js/453.40d370ac.chunk.js": "/static/js/453.40d370ac.chunk.js",
+    "static/js/681.e0cd42e1.chunk.js": "/static/js/681.e0cd42e1.chunk.js",
     "static/media/ENEMIES_AT_GATE.png": "/static/media/ENEMIES_AT_GATE.7ebcece8183f482e7b69.png",
     "static/media/ECONOMY.png": "/static/media/ECONOMY.34a410c8b823dc1fc90a.png",
     "static/media/TECH.png": "/static/media/TECH.b1ac9ec5707c8386115f.png",
+    "static/media/FD_NEW_LOGO.png": "/static/media/FD_NEW_LOGO.d80a72791d348ed0ffe7.png",
     "static/media/FREEDOM.png": "/static/media/FREEDOM.47931c7647dea6facc30.png",
-    "static/media/FD_LOGO.jpg": "/static/media/FD_LOGO.448ff9e002baf0b0a5ab.jpg",
     "static/media/polishdane.webp": "/static/media/polishdane.f81126884586f6aaa3f6.webp",
     "index.html": "/index.html",
-    "main.eecdd43c.css.map": "/static/css/main.eecdd43c.css.map",
-    "main.83662f9d.js.map": "/static/js/main.83662f9d.js.map",
-    "453.40d370ac.chunk.js.map": "/static/js/453.40d370ac.chunk.js.map"
+    "main.187c1016.css.map": "/static/css/main.187c1016.css.map",
+    "main.69cae745.js.map": "/static/js/main.69cae745.js.map",
+    "624.df82ba72.chunk.js.map": "/static/js/624.df82ba72.chunk.js.map",
+    "453.40d370ac.chunk.js.map": "/static/js/453.40d370ac.chunk.js.map",
+    "681.e0cd42e1.chunk.js.map": "/static/js/681.e0cd42e1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eecdd43c.css",
-    "static/js/main.83662f9d.js"
+    "static/css/main.187c1016.css",
+    "static/js/main.69cae745.js"
   ]
 }
