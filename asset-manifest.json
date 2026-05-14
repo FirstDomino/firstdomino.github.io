@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.138cb1df.css",
-    "main.js": "/static/js/main.41aa2ff3.js",
-    "static/js/624.174faa70.chunk.js": "/static/js/624.174faa70.chunk.js",
+    "main.css": "/static/css/main.ed3ff07e.css",
+    "main.js": "/static/js/main.9fe42940.js",
+    "static/js/624.fc019e92.chunk.js": "/static/js/624.fc019e92.chunk.js",
     "static/js/453.40d370ac.chunk.js": "/static/js/453.40d370ac.chunk.js",
     "static/js/681.e0cd42e1.chunk.js": "/static/js/681.e0cd42e1.chunk.js",
     "static/media/FD_NEW_LOGO.png": "/static/media/FD_NEW_LOGO.d80a72791d348ed0ffe7.png",
@@ -12,14 +12,14 @@
     "static/media/ENEMIES_NEW.png.png": "/static/media/ENEMIES_NEW.png.dbee6d833df1d0a042f4.png",
     "static/media/polishdane.webp": "/static/media/polishdane.f81126884586f6aaa3f6.webp",
     "index.html": "/index.html",
-    "main.138cb1df.css.map": "/static/css/main.138cb1df.css.map",
-    "main.41aa2ff3.js.map": "/static/js/main.41aa2ff3.js.map",
-    "624.174faa70.chunk.js.map": "/static/js/624.174faa70.chunk.js.map",
+    "main.ed3ff07e.css.map": "/static/css/main.ed3ff07e.css.map",
+    "main.9fe42940.js.map": "/static/js/main.9fe42940.js.map",
+    "624.fc019e92.chunk.js.map": "/static/js/624.fc019e92.chunk.js.map",
     "453.40d370ac.chunk.js.map": "/static/js/453.40d370ac.chunk.js.map",
     "681.e0cd42e1.chunk.js.map": "/static/js/681.e0cd42e1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.138cb1df.css",
-    "static/js/main.41aa2ff3.js"
+    "static/css/main.ed3ff07e.css",
+    "static/js/main.9fe42940.js"
   ]
 }
